@@ -136,7 +136,9 @@ class Sivasurya
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SivasuryaRK&theme=tokyonight&no-frame=true&column=4"/>
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=SivasuryaRK&theme=tokyonight&no-frame=true&column=4"/> -->
+
+<img src="https://github-profile-trophy.vercel.app/?username=SivasuryaRK&theme=flat&no-frame=true"/>
 
 </div>
 
